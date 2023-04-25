@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# NLP Movie Recommendation
 
 
 As a junior Data Analyst, I am pleased to present my project's ReadMe. Throughout the first three days, I encountered an immense workload regarding the cleaning of the data. However, despite the varying formats within the list, I remained motivated and determined to overcome this personal challenge.
