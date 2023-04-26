@@ -9,11 +9,21 @@ One significant drawback I experienced was that PowerBI is unavailable for Mac. 
 
 In the data folder, you will find all the data used to complete this project. Similarly, the code folder contains the code in Jupyter format.
 
+TIMELINE:
+
+Regarding the project's timeline, I spent the first two days primarily cleaning the data to ensure the necessary information was available for analysis. This included working with Python dictionaries that contained multiple keys and values. Afterward, I spent three days deepening my knowledge of Natural Language Processing (NLP) and how it can be applied to the film industry.
+
+Additionally, I completed a DataCamp course that covered several key concepts and techniques relevant to the project. This allowed me to develop a more comprehensive understanding of the project's objectives and helped me to overcome some of the challenges I faced during the project.
+
+The last three days were spent reviewing the project and developing a dashboard in Tableau that accurately represented the movie recommendation system. This was a challenging task, but the end result was a highly interactive and intuitive dashboard that provides useful insights into the user's movie preferences.
+
+Overall, this project took a total of nine days to complete, with each day being crucial to its success.
+
 Finally, feel free to browse my contact folder if you are interested in collaboration. I am open to any suggestions or feedback.
 
 Thank you for your attention.
 
+![[Dashboard](https://public.tableau.com/views/Movie_Recommandation/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)]
 
 
 
-Link of the dashboard:https://public.tableau.com/views/Movie_Recommandation/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
