@@ -1,7 +1,7 @@
 # NLP Movie Recommendation
 
 
-As a junior Data Analyst, I am pleased to present my project's ReadMe. Throughout the first three days, I encountered an immense workload regarding the cleaning of the data. However, despite the varying formats within the list, I remained motivated and determined to overcome this personal challenge.
+As a junior Data Analyst, I am pleased to present my project. Throughout the first three days, I encountered an immense workload regarding the cleaning of the data. However, despite the varying formats within the list, I remained motivated and determined to overcome this personal challenge.
 
 Step-by-step, I used Python to develop a movie-recommendation system. By modifying several elements, you can experience the system yourself. Specifically, in code block 24 of Jupyter notebook, you can call the function "give_recommendation("Blue in the Face")". Select any other movie from the list, and you will receive a list of movie-recommendations.
 
